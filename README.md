@@ -5,7 +5,7 @@
  <body>
  <center>
  <form id=registration method="post">
- <table border="2px" bgcolor="skyblue" height="500px" width="500px">
+ <table border="2px" bgcolor="skyblue" height="300px" width="300px" align="center">
  <tr><td>NAME</td>
  <td><input type="text" name="fname" id="input" placeholder="please enter your name" required></td>
  </tr>
@@ -34,7 +34,7 @@
  </select>
  </td></tr>
  <tr>
- <td calspan="2" bgcolor="gray"><input type="submit" value="submit" name="button"></td>
+ <td calspan="2" align="center"><input type="submit" value="submit" name="button"></td>
  </tr>
  </table>
  </form>

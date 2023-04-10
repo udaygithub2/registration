@@ -34,7 +34,7 @@
  </select>
  </td></tr>
  <tr>
- <td calspan="2" align="center"><input type="submit" value="submit" name="button"></td>
+ <td calspan="2" bgcolor="gray"><input type="submit" value="submit" name="button"></td>
  </tr>
  </table>
  </form>

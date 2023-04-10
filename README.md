@@ -4,13 +4,13 @@
     </head>
     <form>
     <center>
-    <body topmargin="100"bGcolor="CYAN">
-    <table BORDER="2PX"bGcolor="SKYBLUE" bordercolor="yellow"cellspacing="0px">
+    <body>
+    <table BORDER="2PX" bGcolor="SKYBLUE" bordercolor="yellow "cellspacing="0px">
                 <tr>
-                    <td>NAME</td>
+                   <td>NAME</td>
                     <td><input type="text" required></td></tr>
                     <tr>
-                        <td>ROLL NO</td>
+                       <td>ROLL NO</td>
                         <TD><INPUT TYPE="TEXT" required></TD>
                     </tr>
                     <TR>

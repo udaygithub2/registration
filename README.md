@@ -2,9 +2,10 @@
  <head>
  <title>registration page</title>
  </head>
- <form id=registration method="post">
  <body>
- <table border="2px" bgcolor="skyblue">
+ <center>
+ <form id=registration method="post">
+ <table border="2px" bgcolor="skyblue" height="500px" width="500px">
  <tr><td>NAME</td>
  <td><input type="text" name="fname" id="input" placeholder="please enter your name" required></td>
  </tr>
@@ -17,7 +18,7 @@
  <td><input type="text" placeholder="enter your id no" required></td>
  </tr>
  <tr>
- <td>E-MAIL ID<td>
+ <td>E-MAIL ID</td>
  <td><input type="email" placeholder="xyz@gmail.com" required></td>
  </tr>
  <tr>
@@ -33,9 +34,10 @@
  </select>
  </td></tr>
  <tr>
- <td><input type="submit" value="submit" name="button"></td>
+ <td calspan="2" bgcolor="gray"><input type="submit" value="submit" name="button"></td>
  </tr>
  </table>
- </body>
  </form>
+ </center>
+ </body>
  </html>

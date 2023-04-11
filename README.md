@@ -5,7 +5,7 @@
  <body>
  <center>
  <form id=registration method="post">
- <table border="2px" bgcolor="skyblue" height="300px" width="300px" align="center">
+ <table border="2px" bgcolor="skyblue" align="center">
  <tr><td>NAME</td>
  <td><input type="text" name="fname" id="input" placeholder="please enter your name" required></td>
  </tr>

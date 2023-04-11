@@ -6,6 +6,7 @@
  <center>
  <form id=registration method="post">
  <table border="2px" bgcolor="skyblue" align="center">
+ <marquee>REGISTRATION FORM</marquee>
  <tr><td>NAME</td>
  <td><input type="text" name="fname" id="input" placeholder="please enter your name" required></td>
  </tr>

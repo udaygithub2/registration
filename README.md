@@ -4,7 +4,7 @@
  </head>
  <body>
  <center>
- <form id=registration method="post">
+ <form method="post">
  <table border="2px" bgcolor="skyblue" align="center">
  <marquee>REGISTRATION FORM</marquee>
  <tr><td>NAME</td>
